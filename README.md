@@ -210,10 +210,13 @@ This project follows the same conventions as Tasks 1–3 of the CodeAlpha intern
 
 This project was developed as part of the CodeAlpha Data Science Internship for educational purposes.
 ---
+## 🌐 Live Demo
+- streamlit: https://codealphatask-4-rwp6v7za8x2yzycj992dzz.streamlit.app/
+---
 ## 👨‍💻 Author
 
 **Duvvuru Pramod Kumar**
-- streamlit: https://codealphatask-4-rwp6v7za8x2yzycj992dzz.streamlit.app/
+
 - GitHub: https://github.com/dpramodkumar750-beep
 - LinkedIn: https://linkedin.com/in/duvvuru-pramod-kumar-065057285
 
