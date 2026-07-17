@@ -213,7 +213,7 @@ This project was developed as part of the CodeAlpha Data Science Internship for 
 ## 👨‍💻 Author
 
 **Duvvuru Pramod Kumar**
-- https://codealphatask-4-rwp6v7za8x2yzycj992dzz.streamlit.app/
+- streamlit: https://codealphatask-4-rwp6v7za8x2yzycj992dzz.streamlit.app/
 - GitHub: https://github.com/dpramodkumar750-beep
 - LinkedIn: https://linkedin.com/in/duvvuru-pramod-kumar-065057285
 
