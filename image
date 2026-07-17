@@ -1,6 +1,19 @@
-Screenshot 2026-07-17 143959
-Screenshot 2026-07-17 144905
-Screenshot 2026-07-17 145449
-Screenshot 2026-07-17 145504
-Screenshot 2026-07-17 145528
-Screenshot 2026-07-17 145654
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home](images/home.png)
+
+### 📊 Dataset
+![Dataset](images/dataset.png)
+
+### 🔍 Exploratory Data Analysis (EDA)
+![EDA](images/eda.png)
+
+### 📈 Feature Relationships
+![Feature Relationships](images/feature_relationships.png)
+
+### 📦 Outlier Detection
+![Outlier Detection](images/outlier_detection.png)
+
+### 💡 Business Insights
+![Business Insights](images/business_insights.png)
