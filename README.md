@@ -158,17 +158,19 @@ Insights are **generated programmatically** from model outputs, not hardcoded pr
 
 ## 🖼️ Project Screenshots
 
-### Streamlit Dashboard
+## 🖼️ Screenshots
 
-![Dashboard](images/dashboard.png)
+### Home Page
+![Home](images/home.png)
 
-### Correlation Heatmap
+### Prediction
+![Prediction](images/prediction.png)
 
-![Heatmap](images/correlation_heatmap.png)
+### EDA
+![EDA](images/eda.png)
 
-### Model Comparison
-
-![Model](images/model_comparison.png)
+### Compare Models
+![Models](images/model_comparison.png)
 
 | Plot | File |
 |------|------|
