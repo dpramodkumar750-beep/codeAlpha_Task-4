@@ -158,20 +158,23 @@ Insights are **generated programmatically** from model outputs, not hardcoded pr
 
 ## 🖼️ Project Screenshots
 
-## 🖼️ Screenshots
-
 ### Home Page
-![Home](images/home.png)
+![Home](images/Screenshot%202026-07-17%20143959.png)
 
 ### Prediction
-![Prediction](images/prediction.png)
+![Prediction](images/Screenshot%202026-07-17%20144905.png)
 
 ### EDA
-![EDA](images/eda.png)
+![EDA](images/Screenshot%202026-07-17%20145449.png)
 
 ### Compare Models
-![Models](images/model_comparison.png)
+![Models](images/Screenshot%202026-07-17%20145504.png)
 
+### Business Insights
+![Business Insights](images/Screenshot%202026-07-17%20145528.png)
+
+### Dataset
+![Dataset](images/Screenshot%202026-07-17%20145654.png)
 | Plot | File |
 |------|------|
 | Correlation heatmap | `images/correlation_heatmap.png` |
