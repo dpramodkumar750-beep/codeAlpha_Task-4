@@ -147,12 +147,28 @@ Insights are **generated programmatically** from model outputs, not hardcoded pr
 - **Pearson correlation** measures linear association only; it ignores interaction effects between channels.
 - **Tree feature importance** captures non-linear effects and interactions — so rankings can differ.
   For example, Radio may rank higher in tree importance than correlation alone suggests, because it interacts non-additively with TV spend.
+ # badges
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Project Screenshots
 
-> _(Add screenshots to `images/` after running the app and notebook.)_
+### Streamlit Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/correlation_heatmap.png)
+
+### Model Comparison
+
+![Model](images/model_comparison.png)
 
 | Plot | File |
 |------|------|
@@ -190,5 +206,15 @@ This project follows the same conventions as Tasks 1–3 of the CodeAlpha intern
 - No `stratify=` on `train_test_split` — this is continuous regression, not classification
 
 ---
+## 📄 License
+
+This project was developed as part of the CodeAlpha Data Science Internship for educational purposes.
+---
+## 👨‍💻 Author
+
+**Duvvuru Pramod Kumar**
+
+- GitHub: https://github.com/dpramodkumar750-beep
+- LinkedIn: https://linkedin.com/in/duvvuru-pramod-kumar-065057285
 
 *CodeAlpha Data Science Internship — Task 4 | Sales Prediction System*
