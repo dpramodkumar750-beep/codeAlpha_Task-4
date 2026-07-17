@@ -156,25 +156,25 @@ Insights are **generated programmatically** from model outputs, not hardcoded pr
 
 ---
 
-## 🖼️ Project Screenshots
+## 🖼️ Screenshots
 
-### Home Page
-![Home](images/Screenshot%202026-07-17%20143959.png)
+### 🏠 Home Page
+![Home](images/home.png)
 
-### Prediction
-![Prediction](images/Screenshot%202026-07-17%20144905.png)
+### 📊 Dataset
+![Dataset](images/dataset.png)
 
-### EDA
-![EDA](images/Screenshot%202026-07-17%20145449.png)
+### 🔍 Exploratory Data Analysis (EDA)
+![EDA](images/eda.png)
 
-### Compare Models
-![Models](images/Screenshot%202026-07-17%20145504.png)
+### 📈 Feature Relationships
+![Feature Relationships](images/feature_relationships.png)
 
-### Business Insights
-![Business Insights](images/Screenshot%202026-07-17%20145528.png)
+### 📦 Outlier Detection
+![Outlier Detection](images/outlier_detection.png)
 
-### Dataset
-![Dataset](images/Screenshot%202026-07-17%20145654.png)
+### 💡 Business Insights
+![Business Insights](images/business_insights.png)
 | Plot | File |
 |------|------|
 | Correlation heatmap | `images/correlation_heatmap.png` |
